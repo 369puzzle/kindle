@@ -13,9 +13,11 @@ in_progress
 - 同梱素材: LINE特典ページPDF、自己制限チェックリスト、なりきりワーク5日間記録シート、配布音声ファイル
 
 ### 直近でやったこと
+- 2026-04-21: GitHub公開 `github.com/369puzzle/kindle`（public、14MBマスターデータ含む）
+- 2026-04-21: プロジェクト管理用 status.md / README.md 整備、.gitignore強化
+- 2026-04-21: Kindle本マスターデータを Obsidian から `~/Desktop/dev/kindle/美容室に行くのに〜/` へ集約
 - 2026-04-08: ペーパーバック出版申請（KDP）
 - Kindle2026リポジトリを参考に、4〜5万字生成可能なStudio環境を構築
-- Kindle本マスターデータを `~/Desktop/dev/kindle/美容室に行くのに〜/` に集約（Obsidianから移動済み）
 
 ### 次にやること
 - 電子書籍の特典ページをペーパーバックと同じ画像ベースに修正
