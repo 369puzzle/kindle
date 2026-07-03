@@ -1,3 +1,6 @@
+## 所属
+事業者ライン「本流」と連携（出版ノウハウ・続刊）。全体図は ~/Desktop/dev/honryu/BUSINESS_LINE.md（2026-07-04）
+
 ## 状態
 in_progress
 
